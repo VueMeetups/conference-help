@@ -6,6 +6,16 @@ Help for starting and running a Vue.js Conference.
 * * *
 
 
+## Help/Questions
+
+There is a `#conferences` channel on the official Vue.JS Discord server/chatroom:
+
+https://vue-land.js.org
+
+
+* * *
+
+
 ## List of Vue.js Conferences:
 
 Date                | Location         | Name

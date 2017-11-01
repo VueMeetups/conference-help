@@ -21,5 +21,6 @@ https://vue-land.js.org
 Date                | Location         | Name
 :--                 | :--              | :--
 18-??-?? - 18-??-?? | ??, Brazil       | ??
+18-??-?? - 18-??-?? | London, UK       | [Vue.js London](http://vuejs.london)
 18-03-26 - 18-03-28 | New Orleans, US  | [VueConfUS](http://vueconf.us)
 17-06-21 - 17-06-23 | Wrocław, Poland  | [VueConf 2017](https://conf.vuejs.org)
